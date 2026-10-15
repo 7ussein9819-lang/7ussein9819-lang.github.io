@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "PACKAGE_NAME_HERE",
-    "sha256_cert_fingerprints": ["FINGERPRINT_HERE"]
+    "package_name": "io.github.app_7ussein9819_lang.twa",
+    "sha256_cert_fingerprints": ["AA:55:29:BF:DF:6E:AA:94:10:6A:69:F1:34:B4:D2:22:A9:18:93:00:13:EC:58:48:69:B3:DD:12:07:63:45:24"]
   }
 }]
